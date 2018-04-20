@@ -2,8 +2,8 @@
 first program
 ### **lets make some changes.**
 ```
-~~mistalke~~
-**_this_**
-'box_highlight'
->quote
+    ~~mistalke~~
+    **_this_**
+    'box_highlight'
+    >quote
 ```
